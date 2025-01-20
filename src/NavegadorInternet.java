@@ -1,4 +1,4 @@
-public interface INavegadorInternet {
+public interface NavegadorInternet {
     void exibirPagina();
     void adicionarAba();
     void atualizarPagina();

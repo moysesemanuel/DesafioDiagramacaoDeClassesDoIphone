@@ -1,4 +1,4 @@
-public interface IReprodutorMusical {
+public interface ReprodutorMusical {
     void tocar();
     void pausar();
     void selecionarMusica(); // Sem parâmetro

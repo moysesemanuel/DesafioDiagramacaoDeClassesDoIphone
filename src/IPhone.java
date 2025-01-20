@@ -1,4 +1,4 @@
-public class IPhone implements IReprodutorMusical, IAparelhoTelefonico, INavegadorInternet {
+public class IPhone implements ReprodutorMusical, AparelhoTelefonico, NavegadorInternet {
 
     @Override
     public void tocar() {
