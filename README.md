@@ -76,3 +76,5 @@ IPhone ..|> AparelhoTelefonico
 IPhone ..|> NavegadorInternet
 
 @enduml
+
+https://github.com/moysesemanuel/DesafioDiagramacaoDeClassesDoIphone/issues/1
